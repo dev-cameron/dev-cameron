@@ -8,7 +8,8 @@
 - ☸️ Helmets - trace .Values dataflows in your Kubernetes Helm charts 
 
 ### Open-Source Development
-My little contribution to the dev community is in publishing my commonly used components, templates, scripts that improve my workflow. 
+I like to contribute to the dev community by sharing my commonly used components, templates, and scripts I've built that improve my workflow. 
+
 Recently:
 - [extension-template](https://github.com/dev-cameron/extension-template), a quick-start template for building a browser extension with React, TypeScript, and hot reloading
 
