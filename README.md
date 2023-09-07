@@ -7,6 +7,10 @@
 - 🌐 Cache-guide - sleek, vanilla React animations to visualize HTTP cache-control headers
 - ☸️ Helmets - trace .Values dataflows in your Kubernetes Helm charts 
 
+### Open-Source Development
+My little contribution to the dev community is in publishing my commonly used components, templates, scripts that improve my workflow. 
+Recently:
+- [extension-template](https://github.com/dev-cameron/extension-template), a quick-start template for building a browser extension with React, TypeScript, and hot reloading
 
 ### my stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
