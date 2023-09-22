@@ -4,8 +4,8 @@
 
 ### Currently working on:
 - ▶️ Stampii - plugin for a better youtube
-- 🌐 Cache-guide - sleek, vanilla React animations to visualize HTTP cache-control headers
-- ☸️ Helmets - trace .Values dataflows in your Kubernetes Helm charts 
+- 🌐 [Cache-guide](https://cache-guide.vercel.app/) - sleek, vanilla React animations to visualize HTTP cache-control headers
+- ☸️ [Helmets](https://github.com/oslabs-beta/helmets) - trace .Values dataflows in your Kubernetes Helm charts 
 
 ### Open-Source Development
 I like to contribute to the dev community by sharing my commonly used components, templates, and scripts I've built that improve my workflow. 
