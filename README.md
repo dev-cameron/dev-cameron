@@ -11,6 +11,7 @@
 I like to contribute to the dev community by sharing my commonly used components, templates, and scripts I've built that improve my workflow. 
 
 Recently:
+- [draggable-div](https://github.com/dev-cameron/draggable-div), easy draggable component wrapper [react, typescript, tailwindCSS]
 - [extension-template](https://github.com/dev-cameron/extension-template), a quick-start template for building a browser extension with React, TypeScript, and hot reloading
 
 ### my stack:
