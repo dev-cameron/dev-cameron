@@ -1,20 +1,12 @@
-### Hi, I'm Cam
-### I'm passionate about building tools that make the internet, and building cool stuff on the internet, better. 
-
-
-### Currently working on:
-- ▶️ Stampii - plugin for a better youtube
-- 🌐 [Cache-guide](https://cache-guide.vercel.app/) - sleek, vanilla React animations to visualize HTTP cache-control headers
+### apps
+- 🌐 [Cache-guide](https://cache-guide.vercel.app/) - vanilla React animations to visualize HTTP cache-control headers
 - ☸️ [Helmets](https://github.com/oslabs-beta/helmets) - trace .Values dataflows in your Kubernetes Helm charts 
 
-### Open-Source Development
-I like to contribute to the dev community by sharing my commonly used components, templates, and scripts I've built that improve my workflow. 
-
-Recently:
+### some random stuff that may help you:
 - [draggable-div](https://github.com/dev-cameron/draggable-div), easy draggable component wrapper [react, typescript, tailwindCSS]
 - [extension-template](https://github.com/dev-cameron/extension-template), a quick-start template for building a browser extension with React, TypeScript, and hot reloading
 
-### my stack:
+### stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
